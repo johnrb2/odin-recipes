@@ -1,0 +1,42 @@
+* {
+  background-color: black;
+  color: white;
+  font-family: Roboto, sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+ul li {
+  font-size: 20px;
+  font-weight: bold;
+  color: yellow;
+}
+
+a {
+  color: pink;
+}
+
+img {
+  width: 300px;
+  height: auto;
+}
+
+h2 {
+  font-size: 16px;
+}
+
+h3 {
+  font-size: 32px;
+}
+
+p {
+  font-style: italic;
+  font-size: 16px;
+}
+
+ol li {
+  font-size: 20px;
+  font-family: Chalkboard, sans-serif;
+}
